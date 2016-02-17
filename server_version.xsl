@@ -3,14 +3,14 @@
 <xsl:template match = "/icestats" >
 <html>
 <head>
-<title>stream.whatit.is</title>
+<title>stream.tribal.fm</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link href="//fonts.googleapis.com/css?family=Noto+Sans:400,300,200" rel="stylesheet" />
 <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200" rel="stylesheet" />
 </head>
 <body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
 
-<h2>stream.whatit.is <span style="font-size: 0.8em"> <span style="font-size: 1.2em; margin-right:2px">/</span>  version</span></h2>
+<h2>stream.tribal.fm <span style="font-size: 0.8em"> <span style="font-size: 1.2em; margin-right:2px">/</span>  version</span></h2>
 
 <!--index header menu -->
 <div class="roundcont">
@@ -42,8 +42,8 @@
 	<td class="streamdata"><xsl:value-of select="location" /></td>
 </tr>
 <tr>
-	<td width="130">Admin</td>
-	<td class="streamdata">admin@whatit.is</td>
+	<td width="130">Contact</td>
+	<td class="streamdata">stream@tribal.fm</td>
 </tr>
 <tr>
     <td width="130">Host</td>
